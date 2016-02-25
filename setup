@@ -1,1 +1,1 @@
-rm ~/.vimrc; ln -s ~/mine/vimrc ~/.vimrc
+rm -f ~/.vimrc; ln -s `pwd`/vimrc ~/.vimrc
