@@ -1,6 +1,6 @@
 # Suitcase
-Stuff I bring around where ever I go.
+Stuff I bring around whereever I go.
 
-Run setup.  Currently it only sets up the VIM resource file, `.vimrc`.
+Run setup to set VIM resource file and bash prompt.
 
 `% ./setup`

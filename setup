@@ -1,1 +1,5 @@
-rm -f ~/.vimrc; ln -s `pwd`/vimrc ~/.vimrc
+mv -f ~/.vimrc ~/.vimrc.bak
+cp vimrc ~/.vimrc
+
+mv -f ~/.bash_profile ~/.bash_profile.bak
+cp bash_profile ~/.bash_profile
